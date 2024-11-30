@@ -1,2 +1,2 @@
 # test-Actions
-GitHubActiosの試行
+GitHubActionsの試行
